@@ -80,6 +80,8 @@ public class LogoEditor : EditorWindow
 
         }
 
+        Logos.NextScene = EditorGUILayout.IntField(Logos.NextScene);
+
 
         EditorGUILayout.EndVertical();
 

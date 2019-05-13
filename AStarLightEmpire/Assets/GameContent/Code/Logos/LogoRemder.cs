@@ -51,7 +51,13 @@ public class LogoRemder : MonoBehaviour
     {
 
 
-        if (LogoNum >= Logos.Logos.Count) return;
+        if (LogoNum >= Logos.Logos.Count)
+        {
+            if (Logos.NextScene != -1)
+            {
+                UnityEngine.SceneManagement.SceneManager.LoadScene(Logos.NextScene);
+            }
+        }
         var cur_logo = Logos.Logos[LogoNum];
 
         if (first)
@@ -68,6 +74,7 @@ public class LogoRemder : MonoBehaviour
         {
             first = true;
             LogoNum++;
+       
             
 
         }
