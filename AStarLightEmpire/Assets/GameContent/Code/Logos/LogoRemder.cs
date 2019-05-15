@@ -55,7 +55,8 @@ public class LogoRemder : MonoBehaviour
         {
             if (Logos.NextScene != -1)
             {
-                UnityEngine.SceneManagement.SceneManager.LoadScene(Logos.NextScene);
+                LoadSceneScript.LoadIndex = 0;
+                UnityEngine.SceneManagement.SceneManager.LoadScene(2);
             }
         }
         var cur_logo = Logos.Logos[LogoNum];

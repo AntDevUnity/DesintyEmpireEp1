@@ -6,7 +6,7 @@ public class LogoCollection : MonoBehaviour
 {
 
     public List<LogoElement> Logos; //= new List<LogoElement>();
-    public int NextScene = -1;
+    public int NextScene;
 
     // Start is called before the first frame update
     void Start()

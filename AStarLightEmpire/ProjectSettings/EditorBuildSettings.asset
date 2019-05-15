@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GameContent/UnityScenes/Logos/IntroLogo/IntroLogos1.unity
     guid: 4d9c9ac60118b3b4381f79818fd6ab95
+  - enabled: 1
+    path: Assets/GameContent/UnityScenes/LoadingScreen/LoadingNormal1.unity
+    guid: ca23a21de50a0bd458c8541964a6916a
   m_configObjects: {}
