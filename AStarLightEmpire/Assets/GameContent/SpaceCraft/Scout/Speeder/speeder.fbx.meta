@@ -11,12 +11,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: cot-pit
-    second: {fileID: 2100000, guid: a2ca2219eaab2ef4aa92c9e02c3a0a69, type: 2}
+    second: {fileID: 2100000, guid: cd183604e776570408ad3392323f5495, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: speeder
-    second: {fileID: 2100000, guid: 4a2eba5770282a34482d8a1133b38803, type: 2}
+    second: {fileID: 2100000, guid: cd552b0b97d234c4fb53958a55fc4e95, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
