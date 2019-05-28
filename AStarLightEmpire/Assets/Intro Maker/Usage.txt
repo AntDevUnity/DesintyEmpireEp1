@@ -1,0 +1,17 @@
+Step 1 - Import the Intro-Maker package/folder into your project.
+
+Step 2 - Goto or create your scene intended to show your logos.
+
+Step 3 - Click on Vector Tools/Intro Maker
+
+Step 4 - Add your logos, and tweak the parameters to your suiting.
+
+Step 5 - Change the final value, the next scene to the desired scene number.
+
+Step 6- When you play the scene, it will show your logos in order, then load the next scene up for you, this can be of anything, loading/menu etc.
+
+Step 7 - Any further questions? Feel free to ask on our public forums at http://www.vectorsoft.co.uk/forum/ or email our main developer at antonyrobwells@gmail.com
+
+Step 8 - Any suggestions for future versions? Let us know the same way!
+
+Thank you for using our product.
